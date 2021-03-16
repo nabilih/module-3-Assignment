@@ -9,7 +9,7 @@
 }
 
 #our-menu{
-    font-size:1.5em;
+    font-size:1.8em;
     margin-bottom:50px;
     font-weight: bold;
 }
@@ -20,10 +20,13 @@
     text-align: left;
   }
 
-#main-content {
+/* #main-content {
     background-color: darkgrey;   
-}
+} */
 
+#menu-details {
+    background-color: darkgrey; 
+}
 h3.menu-item-title{
     font-weight: bold;
 }
